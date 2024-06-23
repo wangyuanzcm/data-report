@@ -1,0 +1,91 @@
+[
+  {
+    "field1": "7.6",
+    "field2": "7.9",
+    "field3": "7.6",
+    "field4": "7.3",
+    "field5": "6.9",
+    "field6": "6.9",
+    "runDt": "日更新：06-11"
+  },
+  [
+    {
+      "finishRate": "99",
+      "executeRate": "91",
+      "deliverNumbers": "37",
+      "executeNumbers": "95",
+      "planNumbers": "73",
+      "tragetValue": "82",
+      "type": "合装开工",
+      "runDt": "日更新：06-11"
+    },
+    {
+      "finishRate": "99",
+      "executeRate": "91",
+      "deliverNumbers": "37",
+      "executeNumbers": "95",
+      "planNumbers": "73",
+      "tragetValue": "82",
+      "type": "地盘完工",
+      "runDt": "日更新：06-11"
+    },
+    {
+      "finishRate": "99",
+      "executeRate": "91",
+      "deliverNumbers": "37",
+      "executeNumbers": "95",
+      "planNumbers": "73",
+      "tragetValue": "82",
+      "type": "涂装收尾",
+      "runDt": "日更新：06-11"
+    },
+    {
+      "finishRate": "99",
+      "executeRate": "91",
+      "deliverNumbers": "37",
+      "executeNumbers": "95",
+      "planNumbers": "73",
+      "tragetValue": "82",
+      "type": "吊装开工",
+      "runDt": "日更新：06-11"
+    },
+    {
+      "finishRate": "99",
+      "executeRate": "91",
+      "deliverNumbers": "37",
+      "executeNumbers": "95",
+      "planNumbers": "73",
+      "tragetValue": "82",
+      "type": "双签完工",
+      "runDt": "日更新：06-11"
+    }
+  ],
+  {
+    "planHlwdHz": {
+      "mbwdl": "99.5",
+      "sjwdl": "100",
+      "mbhlx": "99.5",
+      "sjhlx": "100",
+      "hlxbg": "0",
+      "wdlbg": "0"
+    },
+    "planHlwDz": {
+      "mbwdl": "99.5",
+      "sjwdl": "100",
+      "mbhlx": "99.5",
+      "sjhlx": "100",
+      "hlxbg": "0",
+      "wdlbg": "0"
+    },
+    "runDtHlx": "周更新：06-11",
+    "runDtWdl": "月更新：06-11"
+  },
+  {
+    "dimType": "null",
+    "mbValue": "99",
+    "sjValue": "59.8",
+    "ddate": "06-13",
+    "color": "R",
+    "runDt": "周更新：06-11"
+  }
+]
